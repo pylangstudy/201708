@@ -1,0 +1,6 @@
+r = range(10)
+print(1 in r)
+print(-1 in r)
+print(r[3])
+print(r[2:5])
+print(r[-1])

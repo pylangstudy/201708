@@ -1,0 +1,6 @@
+print([])
+print([1])
+print([1,2,3])
+print([x*10 for x in range(10)])
+print(list())
+print(list((1,2,3)))
