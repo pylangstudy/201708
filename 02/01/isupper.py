@@ -1,0 +1,7 @@
+s = 'abc'; print(s.isupper(), s)
+s = 'Abc'; print(s.isupper(), s)
+s = 'aBc'; print(s.isupper(), s)
+s = 'abC'; print(s.isupper(), s)
+s = 'abc'; print(s.isupper(), s)
+s = 'ABC'; print(s.isupper(), s)
+s = 'abc'; print(s.capitalize().isupper(), s.capitalize())

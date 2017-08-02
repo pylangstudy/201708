@@ -1,0 +1,7 @@
+s = 'abc'; print(s.islower(), s)
+s = 'Abc'; print(s.islower(), s)
+s = 'ABC'; print(s.islower(), s)
+s = '123'; print(s.islower(), s)
+s = '(_)'; print(s.islower(), s)
+s = '(abc)'; print(s.islower(), s)
+s = '(aBc)'; print(s.islower(), s)

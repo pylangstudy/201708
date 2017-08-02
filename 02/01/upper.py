@@ -1,0 +1,6 @@
+s = 'abc'; print(s.upper(), s)
+s = 'Abc'; print(s.upper(), s)
+s = 'aBc'; print(s.upper(), s)
+s = 'abC'; print(s.upper(), s)
+s = 'abc'; print(s.upper(), s)
+s = 'ABC'; print(s.upper(), s)
