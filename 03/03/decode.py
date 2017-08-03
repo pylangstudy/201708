@@ -1,0 +1,11 @@
+print(b'abc'.decode())
+print(bytearray(b'abc').decode())
+print(b'abc'.decode('utf-8'))
+print(bytearray(b'abc').decode('utf-8'))
+
+print(b'abc'.decode(errors='strict'))
+print(bytearray(b'abc').decode(errors='strict'))
+print(b'abc'.decode(errors='ignore'))
+print(bytearray(b'abc').decode(errors='ignore'))
+print(b'abc'.decode(errors='replace'))
+print(bytearray(b'abc').decode(errors='replace'))

@@ -1,0 +1,13 @@
+s = b'abc'; print(s.upper(), s)
+s = b'Abc'; print(s.upper(), s)
+s = b'aBc'; print(s.upper(), s)
+s = b'abC'; print(s.upper(), s)
+s = b'abc'; print(s.upper(), s)
+s = b'ABC'; print(s.upper(), s)
+
+s = bytearray(b'abc'); print(s.upper(), s)
+s = bytearray(b'Abc'); print(s.upper(), s)
+s = bytearray(b'aBc'); print(s.upper(), s)
+s = bytearray(b'abC'); print(s.upper(), s)
+s = bytearray(b'abc'); print(s.upper(), s)
+s = bytearray(b'ABC'); print(s.upper(), s)
