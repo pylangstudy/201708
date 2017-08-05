@@ -1,0 +1,6 @@
+s = set([1,2,3])
+print(s)
+s.update([4,5,6])
+print(s)
+s |= set([7,8,9])
+print(s)
