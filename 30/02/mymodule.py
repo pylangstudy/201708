@@ -1,0 +1,1 @@
+def mymethod(): print('mymethod')
